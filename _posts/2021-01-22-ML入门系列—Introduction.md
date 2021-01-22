@@ -2,7 +2,7 @@
 layout:     post
 title:      ML入门系列-Introduction
 subtitle:   李宏毅2020机器学习碎碎念
-date:       2021-1-22
+date:       2021-01-22
 author:     lora
 header-img: img/the-first.png
 catalog:   true
