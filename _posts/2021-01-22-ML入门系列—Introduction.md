@@ -48,8 +48,8 @@ tags:
     
 ## 4. 前沿研究
 - **Explainable AI** <br> 给出输出这样结果的理由。
-- **Adversarial Attack** <br> 针对机器输出的攻击.
-- **Network Compression** <br> 把庞大的modal缩小.
+- **Adversarial Attack** <br> 针对机器输出的攻击。
+- **Network Compression** <br> 把庞大的modal缩小。
 - **Anomaly Detection**<br> 机器知道自己并不知道 输入的东西应该给的输出是什么。
 - **Transfer Learning**(Domain Adversarial Learning)<br> 测试资料与训练资料的distribution不同，其导致的正确率下降的补救方法。
 - **Meta Learning** = Learn to learn. 学习如何学习。<br>
