@@ -55,4 +55,4 @@ tags:
 	* 机器学习：写一个程序，让机器拥有学习能力。（学习方法由人设计）
     * 元学习：写一个程序，让机器拥有如何学习的能力，再使用该能力，让机器掌握学习能力。（学习方法由机器设计）
 - **Life-long Learning** 终身学习 (Continuous Learning, Never Ending Learning, Incremental Learning)<br> 让机器一步步地掌握多种技能。
-{{Explainable AI, Adversarial Attack, Network Compression} 基于 {CNN} 的结果。} 
+*{Explainable AI, Adversarial Attack, Network Compression} 基于 {CNN} 的结果。*
