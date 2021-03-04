@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      编译原理——Chapter 1 Introduction
+title:      编译原理—Chapter 1 Introduction
 subtitle:   龙书碎碎念
 date:       2021-03-04
 author:     小熊pink
